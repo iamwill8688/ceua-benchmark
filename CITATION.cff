@@ -6,11 +6,17 @@ type: dataset
 authors:
   - family-names: "Zhao"
     given-names: "Wei"
+    email: "iamwill8688@outlook.com"
 version: "0.1.0"
 date-released: "2026-09-11"
-license: "MIT"
-repository-code: "https://github.com/你的用户名/ceua-benchmark"
-url: "https://github.com/你的用户名/ceua-benchmark"
+# Dataset license: CC BY 4.0. The repository source code is licensed
+# separately under the MIT License (see the LICENSE file).
+license: "CC-BY-4.0"
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+# MANUAL ACTION REQUIRED (before public release):
+# Add the final GitHub repository URL as the `repository-code` and `url`
+# fields. Both are intentionally omitted so that no placeholder URL is
+# published. Do not publish this file with a placeholder or fake URL.
 keywords:
   - LLM
   - benchmark
