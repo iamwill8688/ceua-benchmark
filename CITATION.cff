@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this benchmark in your research, please cite it using the metadata below."
+title: "CEUA: A Benchmark for Evaluating Chinese Emotional Understanding and Application in Large Language Models"
+abstract: "CEUA is an open Chinese emotional intelligence benchmark for evaluating large language models on Emotional Understanding (EU) and Emotional Application (EA): 412 four-option items derived from 206 underlying Chinese social scenarios."
+type: dataset
+authors:
+  - family-names: "Zhao"
+    given-names: "Wei"
+version: "0.1.0"
+date-released: "2026-09-11"
+license: "MIT"
+repository-code: "https://github.com/你的用户名/ceua-benchmark"
+url: "https://github.com/你的用户名/ceua-benchmark"
+keywords:
+  - LLM
+  - benchmark
+  - emotional-intelligence
+  - Chinese
+  - evaluation
+  - emotional-understanding
+  - emotional-application

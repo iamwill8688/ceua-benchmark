@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+build/
+dist/
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# 密钥与环境变量（API Key 只从环境变量读取，绝不入库）
+.env
+.env.*
+
+# Benchmark 运行输出：results/<model>/ 下的 predictions.jsonl 与
+# raw_responses.jsonl 由运行时自动生成，不入库。
+results/
+*.log
+
+# 额外的运行 / 缓存产物（当前不存在，预防误提交）
+checkpoints/
+outputs/
+cache/
+venv/
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+*.ckpt
+*.safetensors
+*.bin
