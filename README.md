@@ -584,6 +584,6 @@ Copyright (c) 2026 Wei Zhao.
 * 数据集卡片：`DATASET_CARD.md`
 * 数据集许可证：`DATASET_LICENSE`
 * 代码许可证：`LICENSE`
-* 引用信息：`CITATION.cff`（其中的仓库地址等元数据仍需在发布前补充）
+* 引用信息：`CITATION.cff`（含作者 Wei Zhao、公开联系邮箱、仓库地址与数据集许可证）
 
 如需反馈问题或参与贡献，请通过本仓库的 Issue / Pull Request 渠道联系维护者。

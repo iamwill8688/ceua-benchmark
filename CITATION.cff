@@ -13,10 +13,8 @@ date-released: "2026-09-11"
 # separately under the MIT License (see the LICENSE file).
 license: "CC-BY-4.0"
 license-url: "https://creativecommons.org/licenses/by/4.0/"
-# MANUAL ACTION REQUIRED (before public release):
-# Add the final GitHub repository URL as the `repository-code` and `url`
-# fields. Both are intentionally omitted so that no placeholder URL is
-# published. Do not publish this file with a placeholder or fake URL.
+repository-code: "https://github.com/iamwill8688/ceua-benchmark"
+url: "https://github.com/iamwill8688/ceua-benchmark"
 keywords:
   - LLM
   - benchmark
